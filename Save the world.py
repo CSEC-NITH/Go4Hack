@@ -246,15 +246,15 @@ def game_loop():
             # displays score , level , highscore
             TextRender('Score: ',MIDFONT,WHITE,(70,MIDFONTHEIGHT//2+5))
             # not combined with above line intentionally
-            TextRender(str(currentScore),MIDFONT,WHITE,(170,MIDFONTHEIGHT//2+5)) 
+            TextRender(str(currentScore),MIDFONT,WHITE,(160,MIDFONTHEIGHT//2+5)) 
             
             TextRender('Level:  ' + str(game_level),MIDFONT,WHITE,(DISPLAYWIDTH//2,MIDFONTHEIGHT//2+5))
             
-            TextRender('Highscore: ',MIDFONT,WHITE,(DISPLAYWIDTH - 180,MIDFONTHEIGHT//2+5))
-            TextRender(str(HIGHSCORE),MIDFONT,WHITE,(DISPLAYWIDTH - 30,MIDFONTHEIGHT//2+5))
+            TextRender('Highscore: ',MIDFONT,WHITE,(DISPLAYWIDTH - 200,MIDFONTHEIGHT//2+5))
+            TextRender(str(HIGHSCORE),MIDFONT,WHITE,(DISPLAYWIDTH - 50,MIDFONTHEIGHT//2+5))
             
             for i in range(HEALTH):
-                DISPLAYSURF.blit(Healthimg,(200 + (i*45),(0)))
+                DISPLAYSURF.blit(Healthimg,(220 + (i*45),(0)))
             
             for i in range(FIREBALLCOUNT): # renders fireballs
                 fireballs[i].move()
