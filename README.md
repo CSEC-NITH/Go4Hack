@@ -1,7 +1,7 @@
 ## Save The World 🎲
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-<a href="https://www.hackerearth.com" target="_blank"><img align="right" src="https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/badge/HE_badge_on_dark.png" alt="HackerEarth badge"></a>
+<a href="https://www.hackerearth.com" target="_blank"><img align="right" src="https://hackerearth.global.ssl.fastly.net/static/hackerearth/images/badge/HE_badge_on_light.png" alt="HackerEarth badge"></a>
 
 **A game made during [Hack 2.0] conducted at NIT Hamirpur.**
 
