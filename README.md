@@ -19,7 +19,13 @@ Extract zip file.
 **On Windows** <br>
 It's as simple as clicking on "Save the world.py"
 
+### Screenshots
+![startimage](screenshots/startImage.png)
+![gameplay](screenshots/gameplay.png)
+
 <p align = "center"> Made with ❤ by <a href="https://hack2nith.hackerearth.com/sprints/hack-20/dashboard/15f7a6c/team/">Gang of Four </a></p>
+
+
 
 [Hack 2.0]: https://hack2nith.hackerearth.com/ "HACK 2.0 Website"
 [Python 3]: https://www.python.org/
